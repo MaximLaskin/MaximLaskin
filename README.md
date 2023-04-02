@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Maxim Laskin
 
+### About Me 👦
 
-[![codewars](https://www.codewars.com/users/MaximLaskin/badges/large)](https://www.codewars.com/users/MaximLaskin)   
+- 🌱 I’m currently learning: Go.
+- 👯 I’m looking to collaborate on: Anything cool!
+- 📫 How to reach me: maxlaskin@mail.ru
+- 😄 Pronouns: he/him
 
+### CodeWars Stats
+[![codewars](https://www.codewars.com/users/MaximLaskin/badges/large)](https://www.codewars.com/users/MaximLaskin)  
 
 <!--
 **MaximLaskin/MaximLaskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
