@@ -1,4 +1,6 @@
-### Hi there 👋, Maxim Laskin
+### Hi there 👋, I'm Maxim Laskin
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximlaskin/)
 
 ### About Me 👦
 
@@ -7,7 +9,7 @@
 - 📫 How to reach me: maxlaskin@mail.ru
 - 😄 Pronouns: he/him
 
-### CodeWars Stats
+### CodeWars and LeetCode Stats
 [![codewars](https://www.codewars.com/users/MaximLaskin/badges/large)](https://www.codewars.com/users/MaximLaskin)  
 
 <!--
