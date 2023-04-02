@@ -12,7 +12,7 @@
 - 😄 LEGO animator and blogger
 
 ### CodeWars and LeetCode Stats
-[![codewars](https://www.codewars.com/users/MaximLaskin/badges/small)](https://www.codewars.com/users/MaximLaskin)
+[![codewars](https://www.codewars.com/users/MaximLaskin/badges/large)](https://www.codewars.com/users/MaximLaskin)
 
 <a href="https://github.com/Maximlaskin/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Maximlaskin&theme=dark" width="400"/>
@@ -20,6 +20,7 @@
 
 ### Skills 👨‍💻
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
+![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/-UIKit-blue)
+![](https://img.shields.io/badge/-SwiftUI-yellow))
 
